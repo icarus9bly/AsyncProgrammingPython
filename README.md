@@ -7,3 +7,7 @@
 - To run a coroutine we must at it to event loop in one of these 2 ways:
   - await the coroutine
   - create task
+
+# Celery - Distributed Task Queue
+- [Celery parallel distributed task with multiprocessing](https://stackoverflow.com/questions/23916413/celery-parallel-distributed-task-with-multiprocessing)
+- Task queues are used as a mechanism to distribute work across threads or machines.

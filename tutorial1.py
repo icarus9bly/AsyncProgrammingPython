@@ -7,6 +7,7 @@ async def main():
     # await task
     await asyncio.sleep(2)
     print("Singh")
+    
 async def noman():
     print("Pratap")
     await asyncio.sleep(3)
